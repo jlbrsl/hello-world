@@ -1,7 +1,6 @@
 # hello-world
 hi!
-i'm a :sad: brazilian artist.
-i'm learnig to code.
+i'm a sad brazilian artist and i'm learnig to code.
 
 i've been using javascript *thanks P5.js* 🦄 and phyton.
 
